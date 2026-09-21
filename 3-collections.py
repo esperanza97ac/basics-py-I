@@ -97,8 +97,7 @@ Puedes añadir, modificar y eliminar pares clave-valor.
 Crea un diccionario llamado "ciudad" con las claves 'nombre' y 'pais' y los valores 'Barcelona' y 'España' respectivamente.
 Imprime el diccionario 
 """
-ciudad = {"nombre": "Barcelona"
-         "país": "España"}
+ciudad = {"nombre": "Barcelona","país": "España"}
 
 # Escribe el código aqui para acceder y ver por consola el valor de 'nombre'
 print(ciudad["nombre"])
